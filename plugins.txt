@@ -1,0 +1,5 @@
+git:latest
+git-client:latest
+scm-api:latest
+github:latest
+github-oauth:latest
